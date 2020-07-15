@@ -1,2 +1,2 @@
-# Create-react-app React, Redux(Redux-toolkit) test
+# Create-react-app React, Redux-toolkit test
 ### Demo: https://first-redux.netlify.app
